@@ -7,5 +7,5 @@
 [codepoint](http://www.unicode.org/charts)
 
 ###JavaScript  
-[编程风格指南](http://javascript.crockford.com/code.html)
+[编程风格指南](http://javascript.crockford.com/code.html)  
 [JSLint](http://www.jslint.com)
