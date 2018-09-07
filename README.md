@@ -6,6 +6,6 @@
 
 [codepoint](http://www.unicode.org/charts)
 
-###JavaScript  
+### JavaScript  
 [编程风格指南](http://javascript.crockford.com/code.html)  
 [JSLint](http://www.jslint.com)
