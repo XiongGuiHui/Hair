@@ -20,14 +20,18 @@
 [像IDE一样使用vim](https://wizardforcel.gitbooks.io/use-vim-as-ide/content/index.html)
 
 ## CS
-[GeeksforGeeks](https://www.geeksforgeeks.org/)
-[cplusplus](www.cplusplus.com/)
+[GeeksforGeeks](https://www.geeksforgeeks.org/)  
+[cplusplus](www.cplusplus.com/)  
+[cppreference](https://en.cppreference.com/)  
+[LLVM](http://llvm.org/)  
+[CTOLib码库](https://www.ctolib.com/)  
+
 
 ## Tools
 [octane测试](http://chromium.github.io/octane/)
 
 ## Life
-[国际大剧院](http://www.chncpa.org/)
+[国际大剧院](http://www.chncpa.org/)  
 [habitica](http://habitica.com/)
 
 ## Github镇站之宝
